@@ -4,7 +4,7 @@
   <img alt="livros" src=".github/livros.PNG"/>
 </p>
 
-### Java POO - Curso em Vídeo☕
+### Java POO - Curso em Vídeo ☕▶
 
 <p align="justify">Código desenvolvido na aula 9 do Curso em Vídeo - Java POO. Com esse projeto é possível alimentar o sistema e vincular um livro para um ou mais leitores e realizar compilação desses dados.
 </p>
