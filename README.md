@@ -6,7 +6,7 @@
 
 ### Java POO - Curso em Vídeo☕
 
-<p align="justify">Código desenvolvido na aula 9 do Curso em Vídeo - Java POO. Com esse projeto consegimos alimentar o sistema e vincular um livro para um ou mais leitores e realizar compilação desses dados.
+<p align="justify">Código desenvolvido na aula 9 do Curso em Vídeo - Java POO. Com esse projeto é possível alimentar o sistema e vincular um livro para um ou mais leitores e realizar compilação desses dados.
 </p>
 
 <strong>O programa vai exibir na tela as seguintes informações:</strong>
