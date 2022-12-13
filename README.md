@@ -11,7 +11,8 @@
 
 <strong>O programa vai exibir na tela as seguintes informações:</strong>
 
-- [x] O título do livro, autor e total de páginas. E também se o livro se encontra aberto e sua página atual
+- [x] O título do livro, autor e total de páginas
+- [x] Se o livro se encontra aberto e sua página atual
 - [x] As informações sobre o leitor que está lendo o livro
   
 ## Compilação 👨🏽‍💻
