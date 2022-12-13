@@ -27,7 +27,7 @@
   <img alt="metodos_personalizados" src=".github/met-especiais.PNG">
 </p>
 
-- [x] Com os métodos personalizados é possível abrir o livro, folhear páginas para a qual o usuário quer, avançar ou voltar páginas do livro tambám
+- [x] Com os métodos personalizados é possível abrir o livro, folhear páginas para a qual o usuário quer, avançar ou voltar páginas do livro também
 - [x] como consequência de qualquer ação desses métodos a página atual muda dinâmicamente
 - [x] <strong>Não é possível</strong> folhear páginas além da quantidade de páginas que o livro possuí, como resultado, caso isso acontencer a página atual volta para zero
 
